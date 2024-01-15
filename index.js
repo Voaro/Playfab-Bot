@@ -7,7 +7,7 @@ const allowedRoles = ["1195458694566121502"];
 // For example !ban, +ban, -ban, ?ban and so on
 const prefix = "+";
 // The Discord bot token, this is used to log in to the bot with
-const token = "MTE5NTg2NDg3NDIwMzQ4ODM2Nw.G3iqW2.aMcveqebT_jR0InXUiZ2ZpT4D2oUJsT4jSLUzg";
+const token = "MTE5NTg2NDg3NDIwMzQ4ODM2Nw.GIOGTC.NeacN5PM1M8oK5MAQWRY8vgas-CJz96oIMPdXA";
 
 // The libraries that are required are discord.js and xhr2, install by running "npm install discord.js" and "npm install xhr2"
 const { Client, GatewayIntentBits, } = require('discord.js');
